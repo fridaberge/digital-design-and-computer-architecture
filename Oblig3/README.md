@@ -26,7 +26,6 @@ The folder contains source code, compiler-generated assembly, a submitted report
 | File | Description |
 | --- | --- |
 | [taskdescription.pdf](./taskdescription.pdf) | Original assignment brief |
-| [Taskdescription.md](./Taskdescription.md) | Additional task-description document |
 | [oblig3.pdf](./oblig3.pdf) | Submitted report, including written answers and handwritten calculations |
 | [part1.s](./part1.s) | Initial assembly Fibonacci exercise |
 | [part2.s](./part2.s) | Callable Fibonacci exercise |
